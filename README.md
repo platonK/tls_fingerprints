@@ -1,5 +1,5 @@
 # Client Application TLS Fingerprints
-TLS client fingerprints used in our IMC 2018 paper.
+TLS client application fingerprints used in our IMC 2018 paper.
 > Platon Kotzias, Abbas Razaghpanah, Johanna Amann, Kenneth G. Paterson, Narseo Vallina-Rodriguez, and Juan Caballero. 
 Coming of Age: A Longitudinal Study of TLS Deployment. 
 In Proceedings of the Internet Measurement Conference (IMC), October 2018.
